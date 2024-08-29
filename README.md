@@ -1,3 +1,5 @@
+ONLY DIFFERENCE IS ALLOWING HYPHENS IN IPSET NAMES
+
 # firewall
 
 [![PR Testing](https://github.com/puppetlabs/puppetlabs-firewall/actions/workflows/pr_test.yml/badge.svg)](https://github.com/puppetlabs/puppetlabs-firewall/actions/workflows/pr_test.yml)
